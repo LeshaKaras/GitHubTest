@@ -1,0 +1,6 @@
+module Reachability [system] {
+  umbrella header "ReachabilitySwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
